@@ -1,0 +1,33 @@
+Arguments: 
+  /Users/rolichung/.nvm/versions/node/v8.7.0/bin/node /usr/local/Cellar/yarn/1.5.1_1/libexec/bin/yarn.js add -D puppeter
+
+PATH: 
+  /Users/rolichung/google-cloud-sdk/bin:/Users/rolichung/.yarn/bin:/Users/rolichung/Library/Python/3.6/bin/:/Users/rolichung/.rvm/gems/ruby-2.3.3/bin:/Users/rolichung/.rvm/gems/ruby-2.3.3@global/bin:/Users/rolichung/.rvm/rubies/ruby-2.3.3/bin:/Users/rolichung/.nvm/versions/node/v8.7.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/Cellar/android-sdk/24.4.1_1/bin:~/.composer/vendor/bin:/Users/rolichung/.rvm/bin:/Users/rolichung/go/bin:/Applications/MySQLWorkbench.app/Contents/MacOS
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.7.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {}
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find package "puppeter" on the "npm" registry.
+      at new MessageError (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:186:110)
+      at NpmResolver.<anonymous> (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:51625:15)
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1_1/libexec/lib/cli.js:109:13
+      at <anonymous>
+      at process._tickCallback (internal/process/next_tick.js:188:7)
